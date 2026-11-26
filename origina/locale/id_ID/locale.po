@@ -1,0 +1,26 @@
+msgid "plugins.generic.origina.displayName"
+msgstr "ORIGINA Cek Plagiasi & Deteksi AI"
+
+msgid "plugins.generic.origina.description"
+msgstr "Menghubungkan OJS 3.x dengan ORIGINA (origina.app) untuk cek plagiasi 24 bahasa, deteksi AI ONNX, dan forensik Cheat Shield."
+
+msgid "plugins.generic.origina.settings.apiUrl"
+msgstr "URL Dasar API ORIGINA"
+
+msgid "plugins.generic.origina.settings.apiUrlRequired"
+msgstr "Masukkan URL dasar API ORIGINA (contoh: https://origina.app)."
+
+msgid "plugins.generic.origina.settings.apiKey"
+msgstr "Token API Bearer ORIGINA (org_live_...)"
+
+msgid "plugins.generic.origina.settings.apiKeyRequired"
+msgstr "Masukkan token API ORIGINA yang dibuat di https://origina.app/ojs-integration.html."
+
+msgid "plugins.generic.origina.settings.autoCheck"
+msgstr "Otomatis antrekan naskah saat penulis melakukan submisi baru"
+
+msgid "plugins.generic.origina.settings.excludeBibliography"
+msgstr "Kecualikan Daftar Pustaka / Referensi"
+
+msgid "plugins.generic.origina.settings.excludeQuotes"
+msgstr "Kecualikan Kutipan Langsung"

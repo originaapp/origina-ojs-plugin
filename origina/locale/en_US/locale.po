@@ -1,0 +1,26 @@
+msgid "plugins.generic.origina.displayName"
+msgstr "ORIGINA Plagiarism & AI Integrity Check"
+
+msgid "plugins.generic.origina.description"
+msgstr "Connects OJS 3.x with ORIGINA (origina.app) for 24-language similarity detection, ONNX AI writing analysis, and Cheat Shield forensics."
+
+msgid "plugins.generic.origina.settings.apiUrl"
+msgstr "ORIGINA API Base URL"
+
+msgid "plugins.generic.origina.settings.apiUrlRequired"
+msgstr "Please enter your ORIGINA API Base URL (e.g. https://origina.app)."
+
+msgid "plugins.generic.origina.settings.apiKey"
+msgstr "ORIGINA Bearer API Token (org_live_...)"
+
+msgid "plugins.generic.origina.settings.apiKeyRequired"
+msgstr "Please enter your ORIGINA API token generated from https://origina.app/ojs-integration.html."
+
+msgid "plugins.generic.origina.settings.autoCheck"
+msgstr "Automatically queue manuscripts on new submission"
+
+msgid "plugins.generic.origina.settings.excludeBibliography"
+msgstr "Exclude Bibliography / References section"
+
+msgid "plugins.generic.origina.settings.excludeQuotes"
+msgstr "Exclude properly bounded direct quotations"
